@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "email": "a@a.com",
+      "password": "$2a$10$aLjm2WDgzAPyNqDM.inTEu4kOfpzImkq2x3zGzUfXzxtateNF1/Hi",
+      "name": "Nishad",
+      "id": 1
+    },
+    {
+      "email": "a2@a2.com",
+      "password": "$2a$10$CBhJDuatyZg5rGjoEPu8iuRkhIpRQpX6.QwNZp/cmZOQvqPOnH.J6",
+      "name": "Nishad 2",
+      "id": 2
+    },
+    {
+      "email": "nishad@a.com",
+      "password": "$2a$10$XVSc2unERnSEVLLd3ZRtT.3Y1V9.DYkskfI5oK5rZ06wKCE.H4fX2",
+      "name": "Nishad ",
+      "id": 3
+    },
+    {
+      "email": "omi@a.com",
+      "password": "$2a$10$ri.IojiqYhJUW4q5OMtbVuQ/A5yzRaAlN5cQbrompb5tJGwKGfBzu",
+      "name": "Omi",
+      "id": 4
+    },
+    {
+      "email": "araf@a.com",
+      "password": "$2a$10$.vx9bBRRrE1/vOEPQz2c6.Qq8vrf9.2ssgmGMbEsTm2UAM.MVdjZO",
+      "name": "Araf Officer",
+      "id": 5
+    },
+    {
+      "email": "nishadanything@gmail.com",
+      "password": "$2a$10$4Q7XBx/yQ3RfSlnxM9SjiOGWDogGSz4vS8jRrcJdLFJe4srMKQ0Z.",
+      "name": "Nishad Chowdhury",
+      "id": 6
+    }
+  ],
+  "projects": [
+    {
+      "teamName": "Dev",
+      "description": "fdsa",
+      "picture": "https://randomuser.me/api/portraits/men/64.jpg",
+      "date": "oct 27",
+      "stage": "Backlog",
+      "color": "text-pink-500 bg-pink-100",
+      "teamMembers": {
+        "teamLeader": "nishadanything@gmail.com",
+        "members": [
+          "a2@a2.com",
+          "nishadanything@gmail.com"
+        ]
+      },
+      "timestamp": 1664263266867,
+      "id": 1
+    },
+    {
+      "teamName": "Copywriting",
+      "description": "fdsa",
+      "picture": "https://randomuser.me/api/portraits/men/64.jpg",
+      "date": "oct 27",
+      "stage": "Backlog",
+      "color": "text-yellow-500 bg-yellow-100",
+      "teamMembers": {
+        "teamLeader": "nishadanything@gmail.com",
+        "members": [
+          "a2@a2.com",
+          "nishadanything@gmail.com"
+        ]
+      },
+      "timestamp": 1664272915400,
+      "id": 2
+    }
+  ],
+  "teams": [
+    {
+      "teamName": "Copywriting",
+      "description": "fdsaf",
+      "picture": "https://randomuser.me/api/portraits/men/64.jpg",
+      "date": "oct 27",
+      "stage": "Backlog",
+      "color": "text-green-500 bg-green-100",
+      "teamMembers": {
+        "teamLeader": "nishadanything@gmail.com",
+        "members": [
+          "a2@a2.com",
+          "nishadanything@gmail.com"
+        ]
+      },
+      "timestamp": 1664261117428,
+      "id": 1
+    }
+  ]
+}
