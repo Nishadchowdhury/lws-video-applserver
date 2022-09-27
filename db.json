@@ -43,7 +43,7 @@
       "description": "fdsa",
       "picture": "https://randomuser.me/api/portraits/men/64.jpg",
       "date": "oct 27",
-      "stage": "Backlog",
+      "stage": "Ready",
       "color": "text-pink-500 bg-pink-100",
       "teamMembers": {
         "teamLeader": "nishadanything@gmail.com",
@@ -52,8 +52,25 @@
           "nishadanything@gmail.com"
         ]
       },
-      "timestamp": 1664263266867,
+      "timestamp": 16642446867,
       "id": 1
+    },
+    {
+      "teamName": "Copywriting",
+      "description": "fdsa",
+      "picture": "https://randomuser.me/api/portraits/men/64.jpg",
+      "date": "oct 27",
+      "stage": "Ready",
+      "color": "text-yellow-500 bg-yellow-100",
+      "teamMembers": {
+        "teamLeader": "nishadanything@gmail.com",
+        "members": [
+          "a2@a2.com",
+          "nishadanything@gmail.com"
+        ]
+      },
+      "timestamp": 16644343425400,
+      "id": 2
     },
     {
       "teamName": "Copywriting",
@@ -69,8 +86,141 @@
           "nishadanything@gmail.com"
         ]
       },
-      "timestamp": 1664272915400,
-      "id": 2
+      "timestamp": 1732915400,
+      "id": 3
+    },
+    {
+      "teamName": "Copywriting",
+      "description": "fdsa",
+      "picture": "https://randomuser.me/api/portraits/men/64.jpg",
+      "date": "oct 27",
+      "stage": "Done",
+      "color": "text-pink-500 bg-pink-100",
+      "teamMembers": {
+        "teamLeader": "nishadanything@gmail.com",
+        "members": [
+          "a2@a2.com",
+          "nishadanything@gmail.com"
+        ]
+      },
+      "timestamp": 1664272912400,
+      "id": 6
+    },
+    {
+      "teamName": "Copywriting",
+      "description": "fdsa",
+      "picture": "https://randomuser.me/api/portraits/men/64.jpg",
+      "date": "oct 27",
+      "stage": "Backlog",
+      "color": "text-yellow-500 bg-yellow-100",
+      "teamMembers": {
+        "teamLeader": "nishadanything@gmail.com",
+        "members": [
+          "a2@a2.com",
+          "nishadanything@gmail.com"
+        ]
+      },
+      "timestamp": 1664272913400,
+      "id": 7
+    },
+    {
+      "teamName": "Design",
+      "description": "fdas",
+      "picture": "https://randomuser.me/api/portraits/men/64.jpg",
+      "date": "oct 27",
+      "stage": "Backlog",
+      "color": "text-pink-500 bg-pink-100",
+      "teamMembers": {
+        "teamLeader": "nishadanything@gmail.com",
+        "members": [
+          "a@a.com",
+          "nishadanything@gmail.com"
+        ]
+      },
+      "timestamp": 1664296731750,
+      "id": 8
+    },
+    {
+      "teamName": "Copywriting",
+      "description": "fdsafdsaf ok quric",
+      "picture": "https://randomuser.me/api/portraits/men/64.jpg",
+      "date": "oct 27",
+      "stage": "Doing",
+      "color": "text-purple-500 bg-purple-100",
+      "teamMembers": {
+        "teamLeader": "nishadanything@gmail.com",
+        "members": [
+          "araf@a.com",
+          "nishadanything@gmail.com"
+        ]
+      },
+      "timestamp": 1664296791944,
+      "id": 9
+    },
+    {
+      "teamName": "Copywriting",
+      "description": "fsdav v fdsfs vdsafd sdfdsa",
+      "picture": "https://randomuser.me/api/portraits/men/64.jpg",
+      "date": "oct 27",
+      "stage": "Review",
+      "color": "text-sky-500 bg-sky-100",
+      "teamMembers": {
+        "teamLeader": "nishadanything@gmail.com",
+        "members": [
+          "nishadanything@gmail.com"
+        ]
+      },
+      "timestamp": 1664296832960,
+      "id": 10
+    },
+    {
+      "teamName": "Copywriting",
+      "description": "fdasf",
+      "picture": "https://randomuser.me/api/portraits/men/64.jpg",
+      "date": "oct 27",
+      "stage": "Review",
+      "color": "text-sky-500 bg-sky-100",
+      "teamMembers": {
+        "teamLeader": "nishadanything@gmail.com",
+        "members": [
+          "nishad@a.com",
+          "nishadanything@gmail.com"
+        ]
+      },
+      "timestamp": 1664296852020,
+      "id": 11
+    },
+    {
+      "teamName": "Dev",
+      "description": "the cake is my favorite",
+      "picture": "https://randomuser.me/api/portraits/men/64.jpg",
+      "date": "oct 27",
+      "stage": "Backlog",
+      "color": "text-pink-500 bg-pink-100",
+      "teamMembers": {
+        "teamLeader": "nishadanything@gmail.com",
+        "members": [
+          "nishadanything@gmail.com"
+        ]
+      },
+      "timestamp": 1664296934956,
+      "id": 12
+    },
+    {
+      "teamName": "Copywriting",
+      "description": "don't Copy bro",
+      "picture": "https://randomuser.me/api/portraits/men/64.jpg",
+      "date": "oct 27",
+      "stage": "Backlog",
+      "color": "text-green-500 bg-green-100",
+      "teamMembers": {
+        "teamLeader": "nishadanything@gmail.com",
+        "members": [
+          "nishadanything@gmail.com"
+        ]
+      },
+      "timestamp": 1664297023159,
+      "id": 13
     }
   ],
   "teams": [
@@ -84,12 +234,33 @@
       "teamMembers": {
         "teamLeader": "nishadanything@gmail.com",
         "members": [
+          "araf@a.com",
+          "nishad@a.com",
+          "a@a.com",
+          "omi@a.com",
           "a2@a2.com",
           "nishadanything@gmail.com"
         ]
       },
       "timestamp": 1664261117428,
-      "id": 1
+      "id": 8
+    },
+    {
+      "teamName": "Design",
+      "description": "The Red Team",
+      "picture": "https://randomuser.me/api/portraits/men/64.jpg",
+      "date": "oct 27",
+      "stage": "Backlog",
+      "color": "text-pink-500 bg-pink-100",
+      "teamMembers": {
+        "teamLeader": "nishadanything@gmail.com",
+        "members": [
+          "a2@a2.com",
+          "nishadanything@gmail.com"
+        ]
+      },
+      "timestamp": 1664297670984,
+      "id": 9
     }
   ]
 }
